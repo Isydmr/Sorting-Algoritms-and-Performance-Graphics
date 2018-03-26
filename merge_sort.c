@@ -50,8 +50,7 @@ void merge(int *array, int low, int mid, int high) {
              j++;
              k++;
          }
-  /* TODO: Yarim listelerin tum elemanlari listenin ilgili yerine
-   * sokulmadiysa, kalan elemanlari yerlestirin. */
+
 }
 
 /* Bolme ve birlestirme metodunu gerceklestiren fonksiyon */
